@@ -68,7 +68,8 @@ Note: All the classes and id's and names of elements that you inspect on Google'
 
 ### Viewing your project on the web
 
-If you want to show your work (the project) to others, or submit a solution below, you will need to publish your site so that others can access it from the web, rather than just on your local machine.  The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
+If you want to show your work (the project) to others, or submit a 
+below, you will need to publish your site so that others can access it from the web, rather than just on your local machine.  The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
 
 Github allows you to publish web projects directly from a GitHub repository.  Doing this will allow you to access your project from `your-gh-username.github.io/your-github-repo-name`
 
@@ -1992,6 +1993,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Benjamin DDP's Solution (Easy)](https://github.com/86benji86/google-homepage) - [View in Browser](https://86benji86.github.io/google-homepage/)
 * [Yash Jahit's Solution (Easy)](https://github.com/yashjahit-21705201/Google-Homepage) - [View in Browser](https://yashjahit-21705201.github.io/Google-Homepage/)
 
+
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
 
@@ -2000,3 +2002,4 @@ If you still feel shaky on your understanding of HTML and CSS, that's okay! You 
 * If you want to see the art of CSS, check out the [CSS Zen Garden](http://www.csszengarden.com/), which collects submissions that use identical HTML and modify only the CSS but turn out wildly different (and beautiful).
 * Read through [Shay Howe's HTML&CSS Tutorial](http://learn.shayhowe.com/html-css/terminology-syntax-intro).  Lesson 1 gives a solid overview and you can do the whole thing for a more in-depth understanding.
 * Learn more about GitHub using [this tutorial](https://try.github.io) or read more in [this article](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).
+
